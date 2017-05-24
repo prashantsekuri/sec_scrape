@@ -1,3 +1,4 @@
+#how to include or where to place helper functions like this one in a scrapy project?
 #code to extract the list of urls for form 4s from the rss feed
 #make the feedparser code more generic. try to pass the url as an argument to the fumction.
 import feedparser
